@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Alice Smith",
+        "img": "./images/chef1.jpeg",
+        "department": "Marketing",
+        "experience": "5 years"
+    },
+    {
+        "name": "Bob Johnson",
+        "img": "./images/chef2.jpeg",
+        "department": "Engineering",
+        "experience": "8 years"
+    },
+    {
+        "name": "Charlie Brown",
+        "img": "./images/chef3.jpeg",
+        "department": "Sales",
+        "experience": "3 years"
+    },
+    {
+        "name": "Diana Prince",
+        "img": "./images/chef4.jpeg",
+        "department": "Human Resources",
+        "experience": "7 years"
+    },
+    {
+        "name": "Edward Lee",
+        "img": "./images/chef5.jpeg",
+        "department": "Finance",
+        "experience": "6 years"
+    },
+    {
+        "name": "Fiona Green",
+        "img": "./images/chef6.jpeg",
+        "department": "Customer Support",
+        "experience": "4 years"
+    },
+    {
+        "name": "George Martin",
+        "img": "./images/chef7.jpeg",
+        "department": "Product Management",
+        "experience": "9 years"
+    },
+    {
+        "name": "Hannah White",
+        "img": "./images/chef8.jpeg",
+        "department": "IT",
+        "experience": "2 years"
+    },
+    {
+        "name": "Ian Black",
+        "img": "./images/chef9.jpeg",
+        "department": "Legal",
+        "experience": "10 years"
+    },
+    {
+        "name": "Jasmine Blue",
+        "img": "./images/chef10.jpeg",
+        "department": "Design",
+        "experience": "5 years"
+    },
+    {
+        "name": "Gordon Ramsay",
+        "department": "Fine Dining",
+              "img": "./images/chef11.jpeg",
+        "experience": 25
+    },
+    {
+        "name": "Jamie Oliver",
+        "department": "Italian Cuisine",
+          "img": "./images/chef12.jpeg",
+        "experience": 20
+    }
+  
+]
